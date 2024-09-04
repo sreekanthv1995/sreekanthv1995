@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreekanth V</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif)">
+<img align="right" alt="coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif">
 
 <h2>👨‍💻 About Me</h2>
 <strong>Sreekanth V - Full Stack Java Developer </strong><br><br>
