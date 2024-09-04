@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sreekanth V</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif">
+<img align="right" alt="coding" width="400" src="https://i0.wp.com/nulpointerexception.com/wp-content/uploads/2024/02/8219f-code-typing-1.gif?resize=500%2C500&ssl=1">
 
-<h2>👨‍💻 About Me</h2>
-<strong>Sreekanth V - Full Stack Java Developer </strong><br><br>
+<h3>👨‍💻 About Me</h3>
 I am a dedicated Full Stack Developer with a strong foundation in Java Spring Boot and Angular. Over the past 2 years, I’ve honed my skills in designing and developing scalable web applications and optimizing deployment pipelines.
 
 My professional journey is driven by a commitment to crafting high-quality, efficient solutions and a passion for leveraging cutting-edge technologies to solve real-world problems.
