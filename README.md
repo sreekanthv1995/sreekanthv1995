@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://i0.wp.com/nulpointerexception.com/wp-content/uploads/2024/02/8219f-code-typing-1.gif?resize=500%2C500&ssl=1">
 
 <h3>👨‍💻 About Me</h3>
-I am a dedicated Full Stack Developer with a strong foundation in Java Spring Boot and Angular. Over the past 2 years, I’ve honed my skills in designing and developing scalable web applications and optimizing deployment pipelines.
+I am a dedicated Full Stack Developer with a strong foundation in Java Spring Boot and Angular. Over the past 1.5 years, I’ve honed my skills in designing and developing scalable web applications and optimizing deployment pipelines.
 
 My professional journey is driven by a commitment to crafting high-quality, efficient solutions and a passion for leveraging cutting-edge technologies to solve real-world problems.
 
@@ -52,7 +52,7 @@ My professional journey is driven by a commitment to crafting high-quality, effi
 ![nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white) 
 
 ### Database
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostGreSQL](https://img.shields.io/badge/PostGreSQL-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps
 
