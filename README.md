@@ -52,7 +52,7 @@ My professional journey is driven by a commitment to crafting high-quality, effi
 ![nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white) 
 
 ### Database
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostGreSQL](https://img.shields.io/badge/PostGreSQL-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostGreSQL](https://img.shields.io/badge/PostGreSQL-%234ea94b.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps
 
