@@ -79,7 +79,5 @@ My professional journey is driven by a commitment to crafting high-quality, effi
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreekanthv1995&show_icons=true&locale=en&layout=compact" alt="sreekanthv1995" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreekanthv1995&show_icons=true&locale=en" alt="sreekanthv1995" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreekanthv1995&" alt="sreekanthv1995" /></p>
